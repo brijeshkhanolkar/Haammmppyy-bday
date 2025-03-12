@@ -14,10 +14,7 @@ const Message = () => {
           Dear Madam Ji,
         </h1>
         <p className="text-xl text-gray-700 leading-relaxed mb-6">
-          Even though we have met recently & i guess we know nothing about eachother but this
-          is my kindness to show you how much i value people.This is a way 
-          to show that our friendship just started and i hope we will be making some great memories together.
-          I'm starting this new year with a new friend as you and i hope our friendship will last forever.
+         Happy birthday again, i really want to make your 17th birthday unforgettable also i want to have permanent memories of mine with the efforts i give for you see we have spent nearly 2 month together but it feel like 2 years like we know each other to much and its feels so good i can't express in words you know my love language is touch kya matlab mujhe bas chhune ka bahana chaheye but ya beyond all our crazy stuffs we did there is a lovely cozy place to be together and just be happy and this is a part of that cozy place so ya happy birthday to you abhi wait for 4 am tab milega gift 2 heheheheheh
         </p>
         <p className="text-lg text-pink-600 font-semibold">
           and on your special day, i wish you the happiest birthday
