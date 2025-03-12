@@ -6,7 +6,7 @@ import { Heart, Sparkles } from 'lucide-react';
 const messages = [
   "suno suno suno dhyan se suno",
   "aab vishi nhi rahi 😭",
-  "16 saal ki ho chuki hai 17 ki letss goooooooo maja aagaya 17 saal ki bandi letss gooo ✨ So, i had to make something special for you cause you are special to me!",
+  "16 saal ki, ho chuki hai 17 ki lets goooooo✨ So, i had to make something special for you cause you are special to me!",
   "Do you wanna see what I made??"
 ];
 
